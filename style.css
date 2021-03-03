@@ -19,6 +19,9 @@
 .text-color-y{
     color: yellow;
 }
+.text-color-g{
+    color: green;
+}
 
 .container{
     width: 100vw;
