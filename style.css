@@ -4,3 +4,25 @@
     margin: 0;
 }
 
+.red-b{
+    background-color: red;
+}
+
+.green-b{
+    background-color: green;
+}
+
+.yellow-b{
+    background-color: yellow;
+}
+
+.text-color-y{
+    color: yellow;
+}
+
+.container{
+    width: 100vw;
+    height: 1200px;
+    margin:auto;
+    background-color: blue;
+}
